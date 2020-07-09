@@ -1,5 +1,9 @@
 # sm4
 
+# 项目介绍
+基于vue的滑动校验
+sm4的国密加解密
+
 ## Project setup
 ```
 npm install
