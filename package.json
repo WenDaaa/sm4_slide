@@ -10,7 +10,7 @@
     "core-js": "^3.6.5",
     "element-ui": "^2.13.2",
     "gm-crypt": "^0.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "vue": "^2.6.11",
     "vue-monoplasty-slide-verify": "^1.1.2",
     "vue-router": "^3.2.0"
